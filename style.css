@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+  font-family: 'Lato', sans-serif;
+}
+canvas {
+  border: 1px solid black;
+}
+.invisible {
+  display: none;
+}
+.text-center {
+  text-align: center;
+}
+div {
+  margin: 10px;
+}
+.center-block {
+  display: block;
+  margin: auto;
+}
